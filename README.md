@@ -9,6 +9,8 @@ It would be shame if all this information is lost or not seen.
 
 # Grades
 
+[Here](https://github.com/yanicksenn/lectures/files/9040185/Modultafel_IT_TZ_HS18_mit_Anrechnung.pdf) you'll find an overview of the 8 semesters (part time studying) of computer science at the Zurich University of Applied Sciences (ZHAW) from 2018 to 2022.
+
 **Semester**|**Module number**|**Description**|**Grade**|**Module group**
 :------|:------|:------|:------|:------
 2022.FS|t.BA.IT.BAIT.10HS.P|Bachelorarbeit für Informatik - Praktikum|5.5|BA
