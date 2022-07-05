@@ -7,7 +7,7 @@ This repository contains the slides of the lectures that I attended (or wanted t
 I am not allowed to share these slides - but I did it anyway.
 It would be shame if all this information is lost or not seen.
 
-# Grades
+# Modules
 
 [Here](https://github.com/yanicksenn/lectures/files/9040185/Modultafel_IT_TZ_HS18_mit_Anrechnung.pdf) you'll find an overview of the 8 semesters (part time studying) of computer science at the Zurich University of Applied Sciences (ZHAW) from 2018 to 2022.
 
